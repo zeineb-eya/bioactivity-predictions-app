@@ -60,6 +60,7 @@ st.markdown("""
     header[data-testid="stHeader"] div {
         background-color: #e6f1eb;
     }
+    
      div.stButton > button {
         background-color: #fdf7f1;
         color: black;
